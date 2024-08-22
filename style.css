@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(211, 212, 212);
+    margin: auto;
+    text-align: center;
+}
+.content {
+    height: 100%;
+}
+.nav {
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.feature {
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.footer {
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+.div1, .div2, .div3 {
+    display: inline;
+}
+p {
+    display: inline;
+    padding: 10px 122px 10px 122px;
+    background-color: rgb(255, 255, 255);
+}
+.main {
+    background-color: rgb(90, 97, 97);
+    margin-top: 100px;
+}
+h1 {
+    text-transform: capitalize;
+    padding-top: 20px;
+}
